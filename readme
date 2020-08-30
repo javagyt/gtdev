@@ -1,0 +1,5 @@
+1. cd gtdev/
+2. make
+3. insmod gtdev.ko
+4. ./gtdev-test-tool
+5. rmmod gtdev
